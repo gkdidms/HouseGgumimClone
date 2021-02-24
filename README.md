@@ -1,2 +1,2 @@
 # HouseGgumimClone  
-####집꾸미기 클론
+#### 집꾸미기 클론
